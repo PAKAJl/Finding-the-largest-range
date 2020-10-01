@@ -1,0 +1,13 @@
+E:\!!!Projects\Search_biggest_ampl\Search_biggest_ampl\bin\Debug\netcoreapp3.1\Search_biggest_ampl.exe
+E:\!!!Projects\Search_biggest_ampl\Search_biggest_ampl\bin\Debug\netcoreapp3.1\Search_biggest_ampl.deps.json
+E:\!!!Projects\Search_biggest_ampl\Search_biggest_ampl\bin\Debug\netcoreapp3.1\Search_biggest_ampl.runtimeconfig.json
+E:\!!!Projects\Search_biggest_ampl\Search_biggest_ampl\bin\Debug\netcoreapp3.1\Search_biggest_ampl.runtimeconfig.dev.json
+E:\!!!Projects\Search_biggest_ampl\Search_biggest_ampl\bin\Debug\netcoreapp3.1\Search_biggest_ampl.dll
+E:\!!!Projects\Search_biggest_ampl\Search_biggest_ampl\bin\Debug\netcoreapp3.1\Search_biggest_ampl.pdb
+E:\!!!Projects\Search_biggest_ampl\Search_biggest_ampl\obj\Debug\netcoreapp3.1\Search_biggest_ampl.csprojAssemblyReference.cache
+E:\!!!Projects\Search_biggest_ampl\Search_biggest_ampl\obj\Debug\netcoreapp3.1\Search_biggest_ampl.AssemblyInfoInputs.cache
+E:\!!!Projects\Search_biggest_ampl\Search_biggest_ampl\obj\Debug\netcoreapp3.1\Search_biggest_ampl.AssemblyInfo.cs
+E:\!!!Projects\Search_biggest_ampl\Search_biggest_ampl\obj\Debug\netcoreapp3.1\Search_biggest_ampl.csproj.CoreCompileInputs.cache
+E:\!!!Projects\Search_biggest_ampl\Search_biggest_ampl\obj\Debug\netcoreapp3.1\Search_biggest_ampl.dll
+E:\!!!Projects\Search_biggest_ampl\Search_biggest_ampl\obj\Debug\netcoreapp3.1\Search_biggest_ampl.pdb
+E:\!!!Projects\Search_biggest_ampl\Search_biggest_ampl\obj\Debug\netcoreapp3.1\Search_biggest_ampl.genruntimeconfig.cache
